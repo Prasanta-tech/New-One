@@ -1,7 +1,5 @@
 # New-One
-starting of disaster
-<br>
-This is cool
+<b> all notes are here </b>
 
  <!-- this is the update inside the local device so it is appear in the yellow color with M symbol  -->
  <!-- and shows https://github.com/Prasanta-tech/New-One.git inide the terminal  -->
